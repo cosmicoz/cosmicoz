@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cosmicoz
 - 👀 I’m interested in IT.
-- 🌱 I’m currently learning bash scripting.
+- 🌱 I’m currently learning Gentoo GNU/Linux development.
 - 💞️ I’m looking to collaborate on CosmicMod Gnu/Linux
 - 📫 Reach me via email or the discussions tab. 
 
