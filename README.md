@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cosmicoz
-- 👀 I’m interested in IT.
+- 👀 I’m interested in free software development.
 - 🌱 I’m currently learning Gentoo GNU/Linux development.
 - 💞️ I’m looking to collaborate on CosmicMod Gnu/Linux
 - 📫 Reach me via email or the discussions tab. 
